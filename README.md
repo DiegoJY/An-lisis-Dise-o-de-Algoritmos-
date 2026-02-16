@@ -1,2 +1,2 @@
-# An-lisis-Dise-o-de-Algoritmos-
+# Analisis-Diseno-de-Algoritmos-
 Correctitud - Eficiencia - Complejidad - Optimización  
